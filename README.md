@@ -1,1 +1,1 @@
-API de Sylvanian Families feita para ser testada no sistema Data²
+API RESTful de Sylvanian Families feita com Node.js e Express.js ser testada no sistema Data²
