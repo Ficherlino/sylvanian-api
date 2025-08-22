@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Freya Chocolate",
+    "familia": "Chocolate Rabbit",
+    "tipo": "Coelho",
+    "ano": 2004,
+    "colecao": "Chocolate Family"
+  },
+  {
+    "id": 2,
+    "nome": "Frasier Chocolate",
+    "familia": "Chocolate Rabbit",
+    "tipo": "Coelho",
+    "ano": 2004,
+    "colecao": "Chocolate Family"
+  },
+  {
+    "id": 3,
+    "nome": "Piers Fisher",
+    "familia": "Fisher Cat",
+    "tipo": "Gato",
+    "ano": 2010,
+    "colecao": "Fisher Family"
+  },
+  {
+    "id": 4,
+    "nome": "Gloria Fisher",
+    "familia": "Fisher Cat",
+    "tipo": "Gato",
+    "ano": 2010,
+    "colecao": "Fisher Family"
+  },
+  {
+    "id": 5,
+    "nome": "Patrick Petite",
+    "familia": "Petite Bear",
+    "tipo": "Urso",
+    "ano": 2002,
+    "colecao": "Petite Family"
+  },
+  {
+    "id": 6,
+    "nome": "Margaret Petite",
+    "familia": "Petite Bear",
+    "tipo": "Urso",
+    "ano": 2002,
+    "colecao": "Petite Family"
+  },
+  {
+    "id": 7,
+    "nome": "Christopher Hazelnut",
+    "familia": "Hazelnut Chipmunk",
+    "tipo": "Esquilo",
+    "ano": 2008,
+    "colecao": "Hazelnut Family"
+  },
+  {
+    "id": 8,
+    "nome": "Rebecca Hazelnut",
+    "familia": "Hazelnut Chipmunk",
+    "tipo": "Esquilo",
+    "ano": 2008,
+    "colecao": "Hazelnut Family"
+  },
+  {
+    "id": 9,
+    "nome": "Benjamin Timbertop",
+    "familia": "Timbertop Bear",
+    "tipo": "Urso",
+    "ano": 1985,
+    "colecao": "Timbertop Family"
+  },
+  {
+    "id": 10,
+    "nome": "Beatrix Timbertop",
+    "familia": "Timbertop Bear",
+    "tipo": "Urso",
+    "ano": 1985,
+    "colecao": "Timbertop Family"
+  }
+]

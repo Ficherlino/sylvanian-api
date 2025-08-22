@@ -1,0 +1,12 @@
+{
+  "name": "sylvanian-api",
+  "version": "1.0.0",
+  "description": "API de Sylvanian Families em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
