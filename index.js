@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
 const bichinhos = require('./bichinhos.json');
+const path = require('path');
+
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/bichinhos', (req, res) => {
   const { familia, tipo, ano } = req.query;
@@ -33,6 +36,11 @@ app.get('/bichinhos/:id', (req, res) => {
   item ? res.json(item) : res.status(404).json({ erro: 'Não encontrado' });
 });
 
-app.listen(3000, () => {
-  console.log('🚀 API rodando em http://localhost:3000');
-});
+module.exports = app;
+
+if (require.main === module) {
+  const PORT = 3000;
+  app.listen(PORT, () => {
+    console.log(`API rodando em http://localhost:${PORT}`);
+  });
+}

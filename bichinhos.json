@@ -5,7 +5,8 @@
     "familia": "Chocolate Rabbit",
     "tipo": "Coelho",
     "ano": 2004,
-    "colecao": "Chocolate Family"
+    "colecao": "Chocolate Family",
+    "imagem": "/images/1.FreyaChocolate.png"
   },
   {
     "id": 2,
@@ -13,70 +14,79 @@
     "familia": "Chocolate Rabbit",
     "tipo": "Coelho",
     "ano": 2004,
-    "colecao": "Chocolate Family"
+    "colecao": "Chocolate Family",
+    "imagem": "/images/2.FrasierChocolate.png"
   },
   {
     "id": 3,
-    "nome": "Piers Fisher",
+    "nome": "Schroeder Fisher",
     "familia": "Fisher Cat",
     "tipo": "Gato",
-    "ano": 2010,
-    "colecao": "Fisher Family"
+    "ano": 2003,
+    "colecao": "Fisher Family",
+    "imagem": "/images/3.SchroederFisher.png"
   },
   {
     "id": 4,
-    "nome": "Gloria Fisher",
+    "nome": "Isabel Fisher",
     "familia": "Fisher Cat",
     "tipo": "Gato",
-    "ano": 2010,
-    "colecao": "Fisher Family"
+    "ano": 2003,
+    "colecao": "Fisher Family",
+    "imagem": "/images/4.IsabelFisher.png"
   },
   {
     "id": 5,
     "nome": "Patrick Petite",
     "familia": "Petite Bear",
     "tipo": "Urso",
-    "ano": 2002,
-    "colecao": "Petite Family"
+    "ano": 1999,
+    "colecao": "Petite Family",
+    "imagem": "/images/5.PatrickPetite.png"
   },
   {
     "id": 6,
     "nome": "Margaret Petite",
     "familia": "Petite Bear",
     "tipo": "Urso",
-    "ano": 2002,
-    "colecao": "Petite Family"
+    "ano": 1999,
+    "colecao": "Petite Family",
+    "imagem": "/images/6.MargaretPetite.png"
   },
   {
     "id": 7,
-    "nome": "Christopher Hazelnut",
-    "familia": "Hazelnut Chipmunk",
+    "nome": "Cedric Walnut",
+    "familia": "Walnut Family",
     "tipo": "Esquilo",
-    "ano": 2008,
-    "colecao": "Hazelnut Family"
+    "ano": 2004,
+    "colecao": "Walnut Squirrel Family",
+    "imagem": "/images/7.CedrickWalnut.png"
   },
   {
     "id": 8,
-    "nome": "Rebecca Hazelnut",
-    "familia": "Hazelnut Chipmunk",
+    "nome": "Yardley Walnut",
+    "familia": "Walnut Family",
     "tipo": "Esquilo",
-    "ano": 2008,
-    "colecao": "Hazelnut Family"
+    "ano": 2004,
+    "colecao": "Walnut Squirrel Family",
+    "imagem": "/images/8.YardleyWalnut.png"
   },
   {
     "id": 9,
-    "nome": "Benjamin Timbertop",
-    "familia": "Timbertop Bear",
-    "tipo": "Urso",
-    "ano": 1985,
-    "colecao": "Timbertop Family"
+    "nome": "Vincent Husky",
+    "familia": "Husky Family",
+    "tipo": "Husky",
+    "ano": 2022,
+    "colecao": "Husky Family",
+    "imagem": "/images/9.VincentHusky.png"
   },
   {
     "id": 10,
-    "nome": "Beatrix Timbertop",
-    "familia": "Timbertop Bear",
-    "tipo": "Urso",
-    "ano": 1985,
-    "colecao": "Timbertop Family"
+    "nome": "Avril Husky",
+    "familia": "Husky Family",
+    "tipo": "Husky",
+    "ano": 2022,
+    "colecao": "Husky Family",
+    "imagem": "/images/10.AvrilHusky.png"
   }
 ]
