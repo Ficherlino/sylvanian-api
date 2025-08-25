@@ -1,12 +1,15 @@
 {
   "name": "sylvanian-api",
   "version": "1.0.0",
-  "description": "API de Sylvanian Families em Node.js",
+  "description": "API de Sylvanian Families em Node.js com scraping integrado",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "cheerio": "^1.1.2",
+    "node-fetch": "^3.3.2"
   }
 }

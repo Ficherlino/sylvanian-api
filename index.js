@@ -1,11 +1,24 @@
-const express = require('express');
+import express from "express";
+import path from "path";
+import { fileURLToPath } from "url";
+import fs from "fs";
+
+// Configuração do __dirname no ES Module
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const app = express();
-const bichinhos = require('./bichinhos.json');
-const path = require('path');
 
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Função para ler o JSON a cada requisição
+function carregarBichinhos() {
+  const data = fs.readFileSync(path.join(__dirname, "bichinhos.json"), "utf-8");
+  return JSON.parse(data);
+}
+
 app.get('/bichinhos', (req, res) => {
+  const bichinhos = carregarBichinhos();
   const { familia, tipo, ano, formato } = req.query;
 
   let resultado = bichinhos;
@@ -44,15 +57,13 @@ app.get('/bichinhos', (req, res) => {
 });
 
 app.get('/bichinhos/:id', (req, res) => {
+  const bichinhos = carregarBichinhos();
   const item = bichinhos.find(b => b.id == req.params.id);
   item ? res.json(item) : res.status(404).json({ erro: 'Não encontrado' });
 });
 
-module.exports = app;
-
-if (require.main === module) {
-  const PORT = 3000;
-  app.listen(PORT, () => {
-    console.log(`API rodando em http://localhost:${PORT}`);
-  });
-}
+// Inicia a API
+const PORT = 3000;
+app.listen(PORT, () => {
+  console.log(`API rodando em http://localhost:${PORT}`);
+});
