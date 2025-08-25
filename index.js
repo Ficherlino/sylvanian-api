@@ -6,7 +6,7 @@ const path = require('path');
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/bichinhos', (req, res) => {
-  const { familia, tipo, ano } = req.query;
+  const { familia, tipo, ano, formato } = req.query;
 
   let resultado = bichinhos;
 
@@ -26,6 +26,18 @@ app.get('/bichinhos', (req, res) => {
     resultado = resultado.filter(b => 
       b.ano === Number(ano)
     );
+  }
+
+  if (formato === "csv") {
+    const cabecalho = Object.keys(resultado[0]).join(",");
+    const linhas = resultado.map(obj => 
+      Object.values(obj).join(",")
+    );
+    const csv = [cabecalho, ...linhas].join("\n");
+
+    res.header("Content-Type", "text/csv");
+    res.attachment("bichinhos.csv");
+    return res.send(csv);
   }
 
   res.json(resultado);
