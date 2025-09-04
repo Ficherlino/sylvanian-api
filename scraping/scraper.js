@@ -56,8 +56,35 @@ async function getCharactersFromFamily(familyUrl) {
   return characters;
 }
 
+async function getReleaseYearFromFamily(familyName) {
+  if (!familyName) return null;
+
+  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(familyName)}&prop=text&format=json`;
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+    const html = data.parse.text["*"];
+    const $ = cheerio.load(html);
+
+    const year = $('div[data-source="year"] .pi-data-value').text().trim();
+    return year || null;
+  } catch (err) {
+    console.log(`Erro ao buscar Release Year da família ${familyName}: ${err}`);
+    return null;
+  }
+}
+
+function extractYear(anoString) {
+  if (!anoString) return null;
+  const match = anoString.match(/\d{4}/);
+  return match ? match[0] : null;
+}
+
 async function getCharacterData(name, id) {
-  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(name)}&prop=text|images&format=json`;
+  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(
+    name
+  )}&prop=text|images&format=json`;
+
   const res = await fetch(url);
   const data = await res.json();
   const html = data.parse.text["*"];
@@ -76,15 +103,22 @@ async function getCharacterData(name, id) {
   const familia = result["family:"] || null;
   const animal = getAnimalFromFamily(familia);
 
+  let ano = extractYear(result["release year:"]);
+  if (!ano && familia) {
+    const anoFamilia = await getReleaseYearFromFamily(familia);
+    ano = extractYear(anoFamilia);
+  }
+
   return {
     id,
     nome: data.parse.title || null,
     familia: familia,
     tipo: animal,
-    ano: result["release year:"] || null,
+    ano: ano,
     imagem: imagem || null,
   };
 }
+
 
 (async () => {
   console.log("Buscando famílias...");
