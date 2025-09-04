@@ -1,0 +1,162 @@
+ [ 
+  {
+    "id": 1,
+    "nome": "Crème Chocolate",
+    "familia": "Chocolate Rabbit Family",
+    "tipo": "Coelho",
+    "ano": 2007,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3c/Cr%C3%A8me_Chocolate_%285062%29.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Aaron Cottontail",
+    "familia": "Cottontail Rabbit Family",
+    "tipo": "Coelho",
+    "ano": 1999,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/cd/Aaron_Cottontail_%284030%29.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "George Babblebrook",
+    "familia": "Grey Rabbit Family",
+    "tipo": "Coelho",
+    "ano": 1985,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e3/George_Babblebrook_%285124%29.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Melanie Caramel",
+    "familia": "Caramel Dog Family",
+    "tipo": "Cachorro",
+    "ano": 2019,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/73/Melanie_Caramel_%285541%29.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Bruce Husky",
+    "familia": "Husky Family",
+    "tipo": "Cachorro",
+    "ano": 2023,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4e/Bruce_Husky_%285825%29.jpg"
+  },
+    {
+    "id": 6,
+    "nome": "Eight Brushwood",
+    "familia": "Shiba Dog Family",
+    "tipo": "Cachorro",
+    "ano": 2021,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/ad/Eight_Brushwood_%282124%29.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Ambrose Walnut",
+    "familia": "Walnut Squirrel Family",
+    "tipo": "Esquilo",
+    "ano": 2004,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4e/Ambrose_Walnut_%285065%29.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Cedric Walnut",
+    "familia": "Walnut Squirrel Family",
+    "tipo": "Esquilo",
+    "ano": 2004,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/39/Cedric_Walnut_%284172%29.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Emma Dale",
+    "familia": "Sheep Family",
+    "tipo": "Ovelha",
+    "ano": 2021,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c0/Emma_Dale_%283413%29.jpg"
+  },
+    {
+    "id": 10,
+    "nome": "Winton Dale",
+    "familia": "Sheep Family",
+    "tipo": "Ovelha",
+    "ano": 2021,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2d/Winton_Dale_%284128%29.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Rocky Waddle",
+    "familia": "Penguin Family",
+    "tipo": "Pinguim",
+    "ano": 2022,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/48/Rocky_Waddle_%285695%29.jpg"
+  },
+    {
+    "id": 12,
+    "nome": "Pearl Waddle",
+    "familia": "Penguin Family",
+    "tipo": "Pinguim",
+    "ano": 2022,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a0/Pearl_Waddle_%285695%29.jpg"
+  },
+    {
+    "id": 13,
+    "nome": "Ronald Fennec",
+    "familia": "Fennec Fox Family",
+    "tipo": "Raposa",
+    "ano": 2022,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/43/Ronald_Fennec_%285696%29.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Benjamin Fennec",
+    "familia": "Fennec Fox Family",
+    "tipo": "Raposa",
+    "ano": 2022,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5c/Benjamin_Fennec_%282181%29.jpg"
+  },
+    {
+    "id": 15,
+    "nome": "Manon Cove",
+    "familia": "Sea Otter Family",
+    "tipo": "Lontra",
+    "ano": 2024,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4f/Manon_Cove_%285804%29.jpg"
+  },
+    {
+    "id": 16,
+    "nome": "Colin Cove",
+    "familia": "Sea Otter Family",
+    "tipo": "Lontra",
+    "ano": 2024,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a7/Colin_Cove_%285803%29.jpg"
+  },
+    {
+    "id": 17,
+    "nome": "Lala Alpine",
+    "familia": "Snow Leopard Family",
+    "tipo": "Leopardo",
+    "ano": 2024,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/11/Lala_Alpine_%285814%29.jpg"
+  },
+    {
+    "id": 18,
+    "nome": "Lumi Alpine",
+    "familia": "Snow Leopard Family",
+    "tipo": "Leopardo",
+    "ano": 2024,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d1/Lumi_Alpine_%285814%29.jpg"
+  },
+    {
+    "id": 19,
+    "nome": "Maurice Floater",
+    "familia": "Seal Family",
+    "tipo": "Foca",
+    "ano": 2023,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/11/Maurice_Floater_%285759%29.jpg"
+  },
+    {
+    "id": 20,
+    "nome": "Puffy Floater",
+    "familia": "Seal Family",
+    "tipo": "Foca",
+    "ano": 2023,
+    "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/85/Puffy_Floater_%285759%29.jpg"
+  }
+]
