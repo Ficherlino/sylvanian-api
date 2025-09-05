@@ -564,7 +564,7 @@
     "nome": "Wade Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/32/Wade_Waters_%284058%29.jpg/revision/latest/scale-to-width-down/268?cb=20191216104009"
   },
   {
@@ -572,7 +572,7 @@
     "nome": "Nancy Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/28/Nancy_Waters_%284058%29.jpg/revision/latest/scale-to-width-down/268?cb=20191216104433"
   },
   {
@@ -580,7 +580,7 @@
     "nome": "Roger Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1e/Roger_Waters_%284058%29.jpg/revision/latest/scale-to-width-down/268?cb=20191216105053"
   },
   {
@@ -588,7 +588,7 @@
     "nome": "Misty Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/06/Misty_Waters_%284058%29.jpg/revision/latest?cb=20191216105217"
   },
   {
@@ -596,7 +596,7 @@
     "nome": "Bucky Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1f/Bucky_%26_Bubble_Waters_%283414%29.jpg/revision/latest/scale-to-width-down/268?cb=20190226100547"
   },
   {
@@ -604,7 +604,7 @@
     "nome": "Bubble Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1f/Bucky_%26_Bubble_Waters_%283414%29.jpg/revision/latest/scale-to-width-down/268?cb=20190226100547"
   },
   {
@@ -612,7 +612,7 @@
     "nome": "Kelvin Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Kelvin_Waters_%284716%29.jpg/revision/latest?cb=20240118095603"
   },
   {
@@ -684,7 +684,7 @@
     "nome": "Durwood Chestnut",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/01/Durwood_Chestnut.jpg/revision/latest?cb=20210625053749"
   },
   {
@@ -692,7 +692,7 @@
     "nome": "Pansy Chestnut",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b9/Pansy_Chestnut.jpg/revision/latest?cb=20210624103140"
   },
   {
@@ -700,7 +700,7 @@
     "nome": "Myrtle Chestnut",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a7/Myrtle_Chestnut.jpg/revision/latest?cb=20210624102517"
   },
   {
@@ -708,7 +708,7 @@
     "nome": "Grover Chestnut",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1986",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b2/Grover_Chestnut.jpg/revision/latest?cb=20210624102134"
   },
   {
@@ -716,7 +716,7 @@
     "nome": "Amy Chestnut",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1986",
     "imagem": null
   },
   {
@@ -788,7 +788,7 @@
     "nome": "Antonio Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "1987",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2f/Antonio_Patches_%284845%29.jpg/revision/latest/scale-to-width-down/268?cb=20191218122936"
   },
   {
@@ -804,7 +804,7 @@
     "nome": "Bertie Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "1987",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/03/Bertie_Patches_%284587%29.jpg/revision/latest/scale-to-width-down/268?cb=20200723070227"
   },
   {
@@ -812,7 +812,7 @@
     "nome": "Bella Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "1987",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5d/Bella_Patches_%284587%29.jpg/revision/latest/scale-to-width-down/268?cb=20200723070227"
   },
   {
@@ -820,7 +820,7 @@
     "nome": "Aristotle Treefellow",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/aa/Aristotle_Treefellow_%284123%29.jpg/revision/latest?cb=20240511182606"
   },
   {
@@ -828,7 +828,7 @@
     "nome": "Arabella Treefellow",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/40/Arabella_Treefellow_%284123%29.jpg/revision/latest?cb=20250331060345"
   },
   {
@@ -836,7 +836,7 @@
     "nome": "Winky Treefellow",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d2/Winky_Treefellow_%284123%29.jpg/revision/latest?cb=20240308070201"
   },
   {
@@ -844,7 +844,7 @@
     "nome": "Grumpy Treefellow",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4b/Grumpy_Treefellow_%284123%29.jpg/revision/latest?cb=20240308071219"
   },
   {
@@ -852,7 +852,7 @@
     "nome": "Blinky Treefellow",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/05/Blinky_Treefellow_%284123%29.jpg/revision/latest?cb=20240308065809"
   },
   {
@@ -972,7 +972,7 @@
     "nome": "Nelson Puddleford",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d8/Nelson_Puddleford_%282963%29.jpg/revision/latest?cb=20210510091635"
   },
   {
@@ -980,7 +980,7 @@
     "nome": "Beth Puddleford",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/45/Beth_Puddleford_%282964%29.jpg/revision/latest/scale-to-width-down/268?cb=20210630115245"
   },
   {
@@ -988,7 +988,7 @@
     "nome": "Maisy Puddleford",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/78/Tom%2C_Sammy%2C_Maisy_Puddleford_%282964%29.jpg/revision/latest/scale-to-width-down/267?cb=20210510175753"
   },
   {
@@ -996,7 +996,7 @@
     "nome": "Sammy Puddleford",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/78/Tom%2C_Sammy%2C_Maisy_Puddleford_%282964%29.jpg/revision/latest/scale-to-width-down/267?cb=20210510175753"
   },
   {
@@ -1004,7 +1004,7 @@
     "nome": "Tom Puddleford",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "1988",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/78/Tom%2C_Sammy%2C_Maisy_Puddleford_%282964%29.jpg/revision/latest/scale-to-width-down/267?cb=20210510175753"
   },
   {
@@ -1324,7 +1324,7 @@
     "nome": "Madeline Merryweather",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1332,7 +1332,7 @@
     "nome": "Charlotte Merryweather",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1404,7 +1404,7 @@
     "nome": "Ramsey Nettlefield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/90/Ramsey_Nettlefield_%284124%29.jpg/revision/latest?cb=20210707085435"
   },
   {
@@ -1412,7 +1412,7 @@
     "nome": "Caprina Nettlefield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/41/Caprina_Nettlefield_%284124%29.jpg/revision/latest/scale-to-width-down/268?cb=20210707085122"
   },
   {
@@ -1420,7 +1420,7 @@
     "nome": "William Nettlefield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1428,7 +1428,7 @@
     "nome": "Nanette Nettlefield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1436,7 +1436,7 @@
     "nome": "Bertram Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1444,7 +1444,7 @@
     "nome": "Alexandra Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1452,7 +1452,7 @@
     "nome": "Kane Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1460,7 +1460,7 @@
     "nome": "Clarice Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": null
   },
   {
@@ -1468,7 +1468,7 @@
     "nome": "Remi Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/cc/Remi_%26_Lena_Bamboo_%285112%29.jpg/revision/latest/scale-to-width-down/268?cb=20190222090144"
   },
   {
@@ -1476,7 +1476,7 @@
     "nome": "Lena Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/cc/Remi_%26_Lena_Bamboo_%285112%29.jpg/revision/latest/scale-to-width-down/268?cb=20190222090144"
   },
   {
@@ -1484,7 +1484,7 @@
     "nome": "Mimi Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/7d/Mimi_%26_Chichi_Bamboo_%285117%29.jpg/revision/latest/scale-to-width-down/268?cb=20190717064602"
   },
   {
@@ -1492,7 +1492,7 @@
     "nome": "Chichi Bamboo",
     "familia": "Panda Family",
     "tipo": "Panda",
-    "ano": null,
+    "ano": "1991",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/7d/Mimi_%26_Chichi_Bamboo_%285117%29.jpg/revision/latest/scale-to-width-down/268?cb=20190717064602"
   },
   {
@@ -1740,7 +1740,7 @@
     "nome": "Rolf Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/94/Rolf_Billabong_%284158%29.jpg/revision/latest/scale-to-width-down/268?cb=20191002143406"
   },
   {
@@ -1748,7 +1748,7 @@
     "nome": "Matilda Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bb/Matilda_Billabong_%284158%29.jpg/revision/latest/scale-to-width-down/268?cb=20191002143406"
   },
   {
@@ -1756,7 +1756,7 @@
     "nome": "Clive Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d3/Clive_Billabong_%284158%29.jpg/revision/latest/scale-to-width-down/268?cb=20191002143407"
   },
   {
@@ -1764,7 +1764,7 @@
     "nome": "Germaine Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/ff/Germaine_Billabong_%284158%29.jpg/revision/latest/scale-to-width-down/268?cb=20191002143408"
   },
   {
@@ -1772,7 +1772,7 @@
     "nome": "Jason Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/69/Jason_%26_Kylie_Billabong_%284159%29.jpg/revision/latest/scale-to-width-down/268?cb=20210712090553"
   },
   {
@@ -1780,7 +1780,7 @@
     "nome": "Kylie Billabong",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "1993",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/69/Jason_%26_Kylie_Billabong_%284159%29.jpg/revision/latest/scale-to-width-down/268?cb=20210712090553"
   },
   {
@@ -1812,7 +1812,7 @@
     "nome": "Herbage Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/df/Herbage_Dappledawn_%284181%29.jpg/revision/latest?cb=20200109074316"
   },
   {
@@ -1820,7 +1820,7 @@
     "nome": "Theodora Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/eb/Theodora_Dappledawn_%284181%29.jpg/revision/latest?cb=20200109074527"
   },
   {
@@ -1828,7 +1828,7 @@
     "nome": "Radish Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6a/Radish_Dappledawn_%284181%29.jpg/revision/latest?cb=20200109075005"
   },
   {
@@ -1836,7 +1836,7 @@
     "nome": "Tilly Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a7/Tilly_Dappledawn_%284181%29.jpg/revision/latest?cb=20200109075207"
   },
   {
@@ -1844,7 +1844,7 @@
     "nome": "Dillon Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c2/Dillon_%26_Cotton_Dappledawn_%284182%29.jpg/revision/latest/scale-to-width-down/268?cb=20191007104207"
   },
   {
@@ -1852,7 +1852,7 @@
     "nome": "Cotton Dappledawn",
     "familia": "Fawn Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "1994",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c2/Dillon_%26_Cotton_Dappledawn_%284182%29.jpg/revision/latest/scale-to-width-down/268?cb=20191007104207"
   },
   {
@@ -1956,7 +1956,7 @@
     "nome": "Elma Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bd/Elma_Mulberry_%284100%29.jpg/revision/latest?cb=20190806123416"
   },
   {
@@ -1964,7 +1964,7 @@
     "nome": "Mae Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/8a/Mae_Mulberry_%284100%29.jpg/revision/latest/scale-to-width-down/268?cb=20210906190051"
   },
   {
@@ -1972,7 +1972,7 @@
     "nome": "Martha Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": null
   },
   {
@@ -1980,7 +1980,7 @@
     "nome": "Ike Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/8c/Ike_Mulberry_%284100%29.jpg/revision/latest?cb=20190806123416"
   },
   {
@@ -1988,7 +1988,7 @@
     "nome": "Candy Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2c/Candy_Mulberry_%284100%29.jpg/revision/latest/scale-to-width-down/268?cb=20200102085446"
   },
   {
@@ -1996,7 +1996,7 @@
     "nome": "Cookie Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/fc/Cookie_%26_Pumpkin_Mulberry_%284101%29.jpg/revision/latest/scale-to-width-down/268?cb=20190508111209"
   },
   {
@@ -2004,7 +2004,7 @@
     "nome": "Pumpkin Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/fc/Cookie_%26_Pumpkin_Mulberry_%284101%29.jpg/revision/latest/scale-to-width-down/268?cb=20190508111209"
   },
   {
@@ -2012,7 +2012,7 @@
     "nome": "George Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": null
   },
   {
@@ -2020,7 +2020,7 @@
     "nome": "Mildred Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": null
   },
   {
@@ -2028,7 +2028,7 @@
     "nome": "Edward Mulberry",
     "familia": "Raccoon Family",
     "tipo": "Guaxinim",
-    "ano": null,
+    "ano": "1995",
     "imagem": null
   },
   {
@@ -2828,7 +2828,7 @@
     "nome": "Henry Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2836,7 +2836,7 @@
     "nome": "Oliver Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2844,7 +2844,7 @@
     "nome": "Angeles Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2852,7 +2852,7 @@
     "nome": "Harriet Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2860,7 +2860,7 @@
     "nome": "Harry Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2868,7 +2868,7 @@
     "nome": "Owen Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/82/Owen_Bearbury_%284412%29.jpg/revision/latest?cb=20210224094924"
   },
   {
@@ -2876,7 +2876,7 @@
     "nome": "Henry Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2884,7 +2884,7 @@
     "nome": "Oliver Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2892,7 +2892,7 @@
     "nome": "Angeles Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2900,7 +2900,7 @@
     "nome": "Harriet Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2908,7 +2908,7 @@
     "nome": "Harry Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -2916,7 +2916,7 @@
     "nome": "Seewell Plume",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/98/Seewell_Plume_%284099%29.jpg/revision/latest?cb=20190926054125"
   },
   {
@@ -2924,7 +2924,7 @@
     "nome": "Evangeline Plume",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a6/Evangeline_Plume_%284099%29.jpg/revision/latest?cb=20190926054125"
   },
   {
@@ -2932,7 +2932,7 @@
     "nome": "Fleur Plume",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/19/Fleur_Plume_%284099%29.jpg/revision/latest?cb=20240117072744"
   },
   {
@@ -2940,7 +2940,7 @@
     "nome": "Dee Plume",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5f/Dee_Plume_%284099%29.jpg/revision/latest?cb=20240117073022"
   },
   {
@@ -2948,7 +2948,7 @@
     "nome": "Lee Plume",
     "familia": "Owl Family",
     "tipo": "Coruja",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5a/Lee_Plume_%284099%29.jpg/revision/latest?cb=20240117073524"
   },
   {
@@ -3476,7 +3476,7 @@
     "nome": "Huckleberry Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6b/Huckleberry_Hamilton_%284126%29.jpg/revision/latest?cb=20190928133454"
   },
   {
@@ -3484,7 +3484,7 @@
     "nome": "Hilda Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9f/Hilda_Hamilton_%284126%29.jpg/revision/latest?cb=20190928133454"
   },
   {
@@ -3492,7 +3492,7 @@
     "nome": "George Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/41/George_Hamilton_%284126%29.jpg/revision/latest?cb=20190928133455"
   },
   {
@@ -3500,7 +3500,7 @@
     "nome": "Jane Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/48/Jane_Hamilton_%284126%29.jpg/revision/latest?cb=20190928133455"
   },
   {
@@ -3508,7 +3508,7 @@
     "nome": "Neil Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/57/Neil_%26_Christine_Hamilton_%284127%29.jpg/revision/latest/scale-to-width-down/268?cb=20190319132001"
   },
   {
@@ -3516,7 +3516,7 @@
     "nome": "Christine Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/57/Neil_%26_Christine_Hamilton_%284127%29.jpg/revision/latest/scale-to-width-down/268?cb=20190319132001"
   },
   {
@@ -3524,7 +3524,7 @@
     "nome": "Kirstie Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": null
   },
   {
@@ -3532,7 +3532,7 @@
     "nome": "Peaches Hamilton",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2006",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/aa/Peaches_Hamilton_%285099%29.jpg/revision/latest/scale-to-width-down/268?cb=20200723082920"
   },
   {
@@ -3636,7 +3636,7 @@
     "nome": "Richard E. Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/75/Richard_Grunt_%283146%29.jpg/revision/latest/scale-to-width-down/267?cb=20190912120941"
   },
   {
@@ -3644,7 +3644,7 @@
     "nome": "Constance Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b2/Constance_Grunt_%283146%29.jpg/revision/latest/scale-to-width-down/268?cb=20190912120941"
   },
   {
@@ -3652,7 +3652,7 @@
     "nome": "Hugh Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/98/Hugh_Grunt_%283146%29.jpg/revision/latest/scale-to-width-down/268?cb=20190912120942"
   },
   {
@@ -3660,7 +3660,7 @@
     "nome": "May Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/34/May_Grunt_%283146%29.jpg/revision/latest/scale-to-width-down/268?cb=20190912120942"
   },
   {
@@ -3668,7 +3668,7 @@
     "nome": "Tiny Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/99/Pig_Triplets_3238.jpg/revision/latest/scale-to-width-down/268?cb=20200730095053"
   },
   {
@@ -3676,7 +3676,7 @@
     "nome": "Little Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/99/Pig_Triplets_3238.jpg/revision/latest/scale-to-width-down/268?cb=20200730095053"
   },
   {
@@ -3684,7 +3684,7 @@
     "nome": "Minor Grunt",
     "familia": "Pig Family",
     "tipo": "Porco",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/99/Pig_Triplets_3238.jpg/revision/latest/scale-to-width-down/268?cb=20200730095053"
   },
   {
@@ -3940,7 +3940,7 @@
     "nome": "Septimus Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/68/Septimus_Persis_%284472%29.jpg/revision/latest?cb=20190806063120"
   },
   {
@@ -3948,7 +3948,7 @@
     "nome": "Salome Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/63/Salome_Persis_%284472%29.jpg/revision/latest?cb=20190806063119"
   },
   {
@@ -3956,7 +3956,7 @@
     "nome": "Nolly Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/ef/Nolly_Persis_%284472%29.jpg/revision/latest?cb=20190806063120"
   },
   {
@@ -3964,7 +3964,7 @@
     "nome": "Sadie Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/38/Sadie_Persis_%284472%29.jpg/revision/latest?cb=20190806063119"
   },
   {
@@ -3972,7 +3972,7 @@
     "nome": "Marcus Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bc/Marcus_Persis_%283411%29.jpg/revision/latest/scale-to-width-down/267?cb=20190225083204"
   },
   {
@@ -3980,7 +3980,7 @@
     "nome": "Roma Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bc/Roma_%26_Rona_Persis_%285116%29.jpg/revision/latest/scale-to-width-down/268?cb=20190718062944"
   },
   {
@@ -3988,7 +3988,7 @@
     "nome": "Rona Persis",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bc/Roma_%26_Rona_Persis_%285116%29.jpg/revision/latest/scale-to-width-down/268?cb=20190718062944"
   },
   {
@@ -4052,7 +4052,7 @@
     "nome": "Lawrence Columbus",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/fa/Lawrence_Columbus_%284774%29.jpg/revision/latest?cb=20230125072404"
   },
   {
@@ -4060,7 +4060,7 @@
     "nome": "Doris Columbus",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e4/Doris_Columbus_%284774%29.jpg/revision/latest?cb=20230619095651"
   },
   {
@@ -4068,7 +4068,7 @@
     "nome": "Tristan Columbus",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e4/Tristan_Columbus_%284774%29.jpg/revision/latest?cb=20210602114918"
   },
   {
@@ -4076,7 +4076,7 @@
     "nome": "Morgan Columbus",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/ea/Morgan_Columbus_%284774%29.jpg/revision/latest?cb=20230725084711"
   },
   {
@@ -4084,7 +4084,7 @@
     "nome": "Nessie Columbus",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9c/Nessie_Columbus_%284774%29.jpg/revision/latest?cb=20230801111105"
   },
   {
@@ -4220,7 +4220,7 @@
     "nome": "Antonio Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2f/Antonio_Patches_%284845%29.jpg/revision/latest/scale-to-width-down/268?cb=20191218122936"
   },
   {
@@ -4236,7 +4236,7 @@
     "nome": "Bertie Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "1987",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/03/Bertie_Patches_%284587%29.jpg/revision/latest/scale-to-width-down/268?cb=20200723070227"
   },
   {
@@ -4244,7 +4244,7 @@
     "nome": "Bella Patches",
     "familia": "Dog Family",
     "tipo": "Cachorro",
-    "ano": null,
+    "ano": "1987",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5d/Bella_Patches_%284587%29.jpg/revision/latest/scale-to-width-down/268?cb=20200723070227"
   },
   {
@@ -4764,7 +4764,7 @@
     "nome": "Hugo Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c5/Hugo_Trunk_%283558%29.jpg/revision/latest/scale-to-width-down/268?cb=20190819065520"
   },
   {
@@ -4772,7 +4772,7 @@
     "nome": "Savannah Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/7e/Savannah_Trunk_%283558%29.jpg/revision/latest/scale-to-width-down/268?cb=20190819065520"
   },
   {
@@ -4780,7 +4780,7 @@
     "nome": "Ivor Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/16/Ivor_Trunk_%283558%29.jpg/revision/latest/scale-to-width-down/268?cb=20190819065519"
   },
   {
@@ -4788,7 +4788,7 @@
     "nome": "Nellie Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/19/Nellie_Trunk_%283558%29.jpg/revision/latest/scale-to-width-down/268?cb=20190819065519"
   },
   {
@@ -4796,7 +4796,7 @@
     "nome": "Jumbo Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/27/Jumbo_Trunk_%283559%29.jpg/revision/latest/scale-to-width-down/268?cb=20190311102751"
   },
   {
@@ -4804,7 +4804,7 @@
     "nome": "Peanut Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b0/Peanut_%26_Nana_Trunk_%283560%29.jpg/revision/latest/scale-to-width-down/268?cb=20190816080335"
   },
   {
@@ -4812,7 +4812,7 @@
     "nome": "Nana Trunk",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b0/Peanut_%26_Nana_Trunk_%283560%29.jpg/revision/latest/scale-to-width-down/268?cb=20190816080335"
   },
   {
@@ -4948,7 +4948,7 @@
     "nome": "Bruce Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/8b/Bruce_Springer_%284766%29.jpg/revision/latest/scale-to-width-down/268?cb=20220314101018"
   },
   {
@@ -4956,7 +4956,7 @@
     "nome": "Shelia Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/56/Shelia_%26_Joey_Springer_%284766%29.jpg/revision/latest/scale-to-width-down/268?cb=20220314102146"
   },
   {
@@ -4964,7 +4964,7 @@
     "nome": "Joanne Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d9/Joanne_Springer_%284766%29.jpg/revision/latest/scale-to-width-down/268?cb=20220314102438"
   },
   {
@@ -4972,7 +4972,7 @@
     "nome": "Joey Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/56/Shelia_%26_Joey_Springer_%284766%29.jpg/revision/latest/scale-to-width-down/268?cb=20220314102146"
   },
   {
@@ -4980,7 +4980,7 @@
     "nome": "Joseph Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/55/Josephine_%26_Joseph_Springer_%284767%29.jpg/revision/latest/scale-to-width-down/268?cb=20190724060851"
   },
   {
@@ -4988,7 +4988,7 @@
     "nome": "Josephine Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/55/Josephine_%26_Joseph_Springer_%284767%29.jpg/revision/latest/scale-to-width-down/268?cb=20190724060851"
   },
   {
@@ -4996,7 +4996,7 @@
     "nome": "Jocelyn Springer",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2010",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1f/Jocelyn_Springer_%284398%29.jpg/revision/latest/scale-to-width-down/268?cb=20240806074026"
   },
   {
@@ -5076,7 +5076,7 @@
     "nome": "Sven Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5f/Sven_Beaufort_%284436%29.jpg/revision/latest/scale-to-width-down/268?cb=20190723064750"
   },
   {
@@ -5084,7 +5084,7 @@
     "nome": "Vania Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Vania_Beaufort_%284436%29.jpg/revision/latest/scale-to-width-down/268?cb=20190723064749"
   },
   {
@@ -5092,7 +5092,7 @@
     "nome": "Valentine Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/57/Valentine_Beaufort_%284436%29.jpg/revision/latest?cb=20190723064749"
   },
   {
@@ -5100,7 +5100,7 @@
     "nome": "Verity Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/85/Verity_Beaufort_%284436%29.jpg/revision/latest/scale-to-width-down/268?cb=20190723064750"
   },
   {
@@ -5108,7 +5108,7 @@
     "nome": "Victor Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/89/Victoria_%26_Victor_Beaufort_%284437%29.jpg/revision/latest/scale-to-width-down/268?cb=20190722080948"
   },
   {
@@ -5116,7 +5116,7 @@
     "nome": "Victoria Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/89/Victoria_%26_Victor_Beaufort_%284437%29.jpg/revision/latest/scale-to-width-down/268?cb=20190722080948"
   },
   {
@@ -5124,7 +5124,7 @@
     "nome": "Vincent Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": null
   },
   {
@@ -5132,7 +5132,7 @@
     "nome": "Violet Beaufort",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2008",
     "imagem": null
   },
   {
@@ -5308,7 +5308,7 @@
     "nome": "Bruce Outback",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "2011",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a2/Bruce_Outback_%285003%29.jpg/revision/latest/scale-to-width-down/268?cb=20190713140005"
   },
   {
@@ -5316,7 +5316,7 @@
     "nome": "Carissa Outback",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "2011",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c6/Carissa_%26_Joey_Outback_%285003%29.jpg/revision/latest/scale-to-width-down/268?cb=20190713140006"
   },
   {
@@ -5324,7 +5324,7 @@
     "nome": "Adelaide Outback",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "2011",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/57/Adelaide_Outback_%285003%29.jpg/revision/latest/scale-to-width-down/268?cb=20190713140005"
   },
   {
@@ -5332,7 +5332,7 @@
     "nome": "Julie Outback",
     "familia": "Koala Family",
     "tipo": "Coala",
-    "ano": null,
+    "ano": "2011",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c6/Carissa_%26_Joey_Outback_%285003%29.jpg/revision/latest/scale-to-width-down/268?cb=20190713140006"
   },
   {
@@ -5388,7 +5388,7 @@
     "nome": "Perkin Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/cd/Perkin_Harvey_%283551%29.jpg/revision/latest/scale-to-width-down/268?cb=20190703075629"
   },
   {
@@ -5396,7 +5396,7 @@
     "nome": "Dorothy Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c0/Dorothy_Harvey_%283551%29.jpg/revision/latest/scale-to-width-down/268?cb=20190703075627"
   },
   {
@@ -5404,7 +5404,7 @@
     "nome": "Austin Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/57/Austin_Harvey_%283551%29.jpg/revision/latest/scale-to-width-down/268?cb=20190703075627"
   },
   {
@@ -5412,7 +5412,7 @@
     "nome": "Zara Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dc/Zara_Harvey_%283551%29.jpg/revision/latest/scale-to-width-down/268?cb=20190703075628"
   },
   {
@@ -5420,7 +5420,7 @@
     "nome": "Liberty Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/80/Liberty_Harvey_%283552%29.jpg/revision/latest/scale-to-width-down/268?cb=20190311093737"
   },
   {
@@ -5428,7 +5428,7 @@
     "nome": "Ashton Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e9/Lulu_%26_Ashton_Harvey_%285084%29.jpg/revision/latest/scale-to-width-down/268?cb=20190701143540"
   },
   {
@@ -5436,7 +5436,7 @@
     "nome": "Lulu Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e9/Lulu_%26_Ashton_Harvey_%285084%29.jpg/revision/latest/scale-to-width-down/268?cb=20190701143540"
   },
   {
@@ -5444,7 +5444,7 @@
     "nome": "Bert Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3d/Bert_Harvey_%284670%29.png/revision/latest/scale-to-width-down/268?cb=20210223080330"
   },
   {
@@ -5452,7 +5452,7 @@
     "nome": "Joyes Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2a/Joyes_Harvey_%284670%29.png/revision/latest/scale-to-width-down/268?cb=20210223080346"
   },
   {
@@ -5460,7 +5460,7 @@
     "nome": "Macey Harvey",
     "familia": "Grey Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4f/Village_Store_doll.jpg/revision/latest/scale-to-width-down/268?cb=20230306072333"
   },
   {
@@ -5628,7 +5628,7 @@
     "nome": "Caspian Neptune",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c4/Caspian_Neptune_%284797%29.jpg/revision/latest?cb=20191224094540"
   },
   {
@@ -5636,7 +5636,7 @@
     "nome": "Narrisa Neptune",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1b/Narrisa_Neptune_%284797%29.jpg/revision/latest/scale-to-width-down/267?cb=20190627083554"
   },
   {
@@ -5644,7 +5644,7 @@
     "nome": "Shelly Neptune",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/41/Shelly_Neptune_%284797%29.jpg/revision/latest/scale-to-width-down/268?cb=20190627083554"
   },
   {
@@ -5652,7 +5652,7 @@
     "nome": "Sandy Neptune",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/ff/Sandy_Neptune_%284797%29.jpg/revision/latest/scale-to-width-down/268?cb=20190627085003"
   },
   {
@@ -5660,7 +5660,7 @@
     "nome": "Andrew Woodbrook",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/d8/Andrew_Woodbrook_%285060%29.jpg/revision/latest/scale-to-width-down/268?cb=20190627071134"
   },
   {
@@ -5668,7 +5668,7 @@
     "nome": "Aubrey Woodbrook",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3e/Aubrey_Woodbrook_%285060%29.jpg/revision/latest/scale-to-width-down/268?cb=20190627071135"
   },
   {
@@ -5676,7 +5676,7 @@
     "nome": "Evelyn Woodbrook",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/34/Evelyn_Woodbrook_%285060%29.jpg/revision/latest/scale-to-width-down/268?cb=20190627071133"
   },
   {
@@ -5684,7 +5684,7 @@
     "nome": "Ethan Woodbrook",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/ac/Ethan_Woodbrook_%285060%29.jpg/revision/latest?cb=20190627071136"
   },
   {
@@ -5692,7 +5692,7 @@
     "nome": "Nick Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c9/Nick_Goldbacke_%285121%29.jpg/revision/latest/scale-to-width-down/267?cb=20190405112849"
   },
   {
@@ -5700,7 +5700,7 @@
     "nome": "Emma Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f9/Emma_Goldbacke_%285121%29.jpg/revision/latest/scale-to-width-down/268?cb=20190405113306"
   },
   {
@@ -5708,7 +5708,7 @@
     "nome": "Frank Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Frank_Goldbacke_%285121%29.jpg/revision/latest/scale-to-width-down/268?cb=20190405112351"
   },
   {
@@ -5716,7 +5716,7 @@
     "nome": "Nora Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/bc/Nora_Goldbacke_%285121%29.jpg/revision/latest/scale-to-width-down/268?cb=20190405111704"
   },
   {
@@ -5724,7 +5724,7 @@
     "nome": "Micki Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3b/Micki_Goldbacke_%285122%29.jpg/revision/latest/scale-to-width-down/268?cb=20190320071116"
   },
   {
@@ -5732,7 +5732,7 @@
     "nome": "Flitz Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Flitz_%26_Nibbles_Goldbacke_%285123%29.jpg/revision/latest/scale-to-width-down/268?cb=20190821105231"
   },
   {
@@ -5740,7 +5740,7 @@
     "nome": "Nibbles Goldbacke",
     "familia": "Hamster Family",
     "tipo": "Hamster",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Flitz_%26_Nibbles_Goldbacke_%285123%29.jpg/revision/latest/scale-to-width-down/268?cb=20190821105231"
   },
   {
@@ -5748,7 +5748,7 @@
     "nome": "Billy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/ab/Billy_Brightfield_%285185%29.jpg/revision/latest/scale-to-width-down/268?cb=20190522092521"
   },
   {
@@ -5756,7 +5756,7 @@
     "nome": "Nancy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9e/Nancy_Brightfield_%285185%29.jpg/revision/latest/scale-to-width-down/268?cb=20191212105346"
   },
   {
@@ -5764,7 +5764,7 @@
     "nome": "Mandy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4a/Mandy_Brightfield_%285185%29.jpg/revision/latest?cb=20220318124900"
   },
   {
@@ -5772,7 +5772,7 @@
     "nome": "Jenny Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/52/Jenny_Brightfield_%285185%29.jpg/revision/latest?cb=20211207104039"
   },
   {
@@ -5788,7 +5788,7 @@
     "nome": "Richie Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/07/Richie_Hopper_%285272%29.jpg/revision/latest/scale-to-width-down/267?cb=20190813091050"
   },
   {
@@ -5796,7 +5796,7 @@
     "nome": "Sandy Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Sandy_%26_Katie_Hopper_%285272%29.jpg/revision/latest/scale-to-width-down/268?cb=20190813091051"
   },
   {
@@ -5804,7 +5804,7 @@
     "nome": "Isabella Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f9/Isabella_Hopper_%285272%29.jpg/revision/latest/scale-to-width-down/268?cb=20190813091051"
   },
   {
@@ -5812,7 +5812,7 @@
     "nome": "Katie Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1d/Katie_Hopper_%285309%29.jpg/revision/latest?cb=20221124113235"
   },
   {
@@ -5820,7 +5820,7 @@
     "nome": "Arthur Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/ac/Arthur_Osborne_%285059%29.jpg/revision/latest?cb=20220426095902"
   },
   {
@@ -5828,7 +5828,7 @@
     "nome": "Carol Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/02/Carol_Osborne_%285059%29.jpg/revision/latest/scale-to-width-down/268?cb=20190426063423"
   },
   {
@@ -5836,7 +5836,7 @@
     "nome": "Aidan Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/10/Aidan_Osborne_%285059%29.jpg/revision/latest/scale-to-width-down/268?cb=20190426063422"
   },
   {
@@ -5844,7 +5844,7 @@
     "nome": "Ava Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/da/Ava_Osborne_%285059%29.jpg/revision/latest/scale-to-width-down/268?cb=20190426063422"
   },
   {
@@ -5852,7 +5852,7 @@
     "nome": "Jason Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/0d/Jason_Osborne_%285073%29.jpg/revision/latest/scale-to-width-down/268?cb=20190304080730"
   },
   {
@@ -5860,7 +5860,7 @@
     "nome": "Bradley Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5e/Bradley_%26_Casey_Osborne_%285086%29.jpg/revision/latest/scale-to-width-down/268?cb=20190809060633"
   },
   {
@@ -5868,7 +5868,7 @@
     "nome": "Casey Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5e/Bradley_%26_Casey_Osborne_%285086%29.jpg/revision/latest/scale-to-width-down/268?cb=20190809060633"
   },
   {
@@ -5876,7 +5876,7 @@
     "nome": "Melody Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/50/Melody_Osborne_%285092%29.jpg/revision/latest/scale-to-width-down/268?cb=20220302083250"
   },
   {
@@ -5884,7 +5884,7 @@
     "nome": "Andrea Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4b/Canal_Rowing_Boat.jpg/revision/latest/scale-to-width-down/268?cb=20200123075350"
   },
   {
@@ -5892,7 +5892,7 @@
     "nome": "Finley Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": null
   },
   {
@@ -5900,7 +5900,7 @@
     "nome": "Francesca Osborne",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2012",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/7a/Francesca_Osborne_%284660%29.jpg/revision/latest/scale-to-width-down/268?cb=20200511104942"
   },
   {
@@ -6060,7 +6060,7 @@
     "nome": "Peter Polaris",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2d/Peter_Polaris_%285183%29.jpg/revision/latest/scale-to-width-down/267?cb=20190522090523"
   },
   {
@@ -6068,7 +6068,7 @@
     "nome": "Barbara Polaris",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/40/Barbara_Polaris_%285183%29.jpg/revision/latest/scale-to-width-down/268?cb=20230228103034"
   },
   {
@@ -6076,7 +6076,7 @@
     "nome": "Julia Polaris",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/0f/Julia_Polaris_%285183%29.jpg/revision/latest/scale-to-width-down/268?cb=20190522090525"
   },
   {
@@ -6084,7 +6084,7 @@
     "nome": "Beth Polaris",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/74/Beth_Polaris_%285183%29.jpg/revision/latest?cb=20190522090524"
   },
   {
@@ -6148,7 +6148,7 @@
     "nome": "Arthur Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6c/Arthur_Teak_%285216%29.jpg/revision/latest/scale-to-width-down/267?cb=20190327121203"
   },
   {
@@ -6156,7 +6156,7 @@
     "nome": "Cecilia Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/79/Cecilia_Teak_%285216%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327121204"
   },
   {
@@ -6164,7 +6164,7 @@
     "nome": "Felix Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2c/Felix_Teak_%285216%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327121203"
   },
   {
@@ -6172,7 +6172,7 @@
     "nome": "Nora Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/e2/Nora_Teak_%285216%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327121203"
   },
   {
@@ -6180,7 +6180,7 @@
     "nome": "Bonnie Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4a/Bonnie_Teak_%285217%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327091650"
   },
   {
@@ -6188,7 +6188,7 @@
     "nome": "Nel Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b6/Nel_%26_Ned_Teak_%285219%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327125314"
   },
   {
@@ -6196,7 +6196,7 @@
     "nome": "Ned Teak",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2014",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/b6/Nel_%26_Ned_Teak_%285219%29.jpg/revision/latest/scale-to-width-down/268?cb=20190327125314"
   },
   {
@@ -6484,7 +6484,7 @@
     "nome": "Lucas Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/79/Lucas_Persian_%285455%29.jpg/revision/latest/scale-to-width-down/268?cb=20200518102301"
   },
   {
@@ -6492,7 +6492,7 @@
     "nome": "Dawn Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/73/Dawn_Persian_%285455%29.jpg/revision/latest/scale-to-width-down/268?cb=20200518102302"
   },
   {
@@ -6500,7 +6500,7 @@
     "nome": "Alicia Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/97/Alicia_Persian_%285461%29.jpg/revision/latest/scale-to-width-down/268?cb=20191129125047"
   },
   {
@@ -6508,7 +6508,7 @@
     "nome": "Finn Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5e/Finn_Persian_%282135%29.jpg/revision/latest?cb=20220122192956"
   },
   {
@@ -6516,7 +6516,7 @@
     "nome": "Lyra Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/40/Lyra_Persian_%285455%29.jpg/revision/latest/scale-to-width-down/268?cb=20200518102303"
   },
   {
@@ -6524,7 +6524,7 @@
     "nome": "Skye Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5a/Skye_Persian_%285455%29.jpg/revision/latest/scale-to-width-down/268?cb=20200518102302"
   },
   {
@@ -6532,7 +6532,7 @@
     "nome": "Ryan Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/5a/Persian_Cat_Baby_5456.jpg/revision/latest?cb=20200728123417"
   },
   {
@@ -6540,7 +6540,7 @@
     "nome": "Leah Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4a/Persian_Cat_Twins_5457.jpg/revision/latest/scale-to-width-down/268?cb=20200514125649"
   },
   {
@@ -6548,7 +6548,7 @@
     "nome": "Bellamy Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4a/Persian_Cat_Twins_5457.jpg/revision/latest/scale-to-width-down/268?cb=20200514125649"
   },
   {
@@ -6556,7 +6556,7 @@
     "nome": "Blair Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dd/Persian_Cat_Triplets_5458.jpg/revision/latest/scale-to-width-down/268?cb=20200811055413"
   },
   {
@@ -6564,7 +6564,7 @@
     "nome": "Blake Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dd/Persian_Cat_Triplets_5458.jpg/revision/latest/scale-to-width-down/268?cb=20200811055413"
   },
   {
@@ -6572,7 +6572,7 @@
     "nome": "Brianna Persian",
     "familia": "Persian Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dd/Persian_Cat_Triplets_5458.jpg/revision/latest/scale-to-width-down/268?cb=20200811055413"
   },
   {
@@ -6580,7 +6580,7 @@
     "nome": "Seamus Polar",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3c/Seamus_Polar_%285376%29.jpg/revision/latest/scale-to-width-down/268?cb=20200222110124"
   },
   {
@@ -6588,7 +6588,7 @@
     "nome": "Maya Polar",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/27/Maya_Polar_%285376%29.jpg/revision/latest/scale-to-width-down/268?cb=20200222110125"
   },
   {
@@ -6596,7 +6596,7 @@
     "nome": "Keisha Polar",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/66/Keisha_Polar_%285377%29.jpg/revision/latest?cb=20200807100132"
   },
   {
@@ -6604,7 +6604,7 @@
     "nome": "Stanley Polar",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2f/Stanley_Polar_%285397%29.jpg/revision/latest/scale-to-width-down/268?cb=20210511120157"
   },
   {
@@ -6612,7 +6612,7 @@
     "nome": "Yana Polar",
     "familia": "Polar Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/92/Yana_Polar_%285376%29.jpg/revision/latest/scale-to-width-down/268?cb=20200222110125"
   },
   {
@@ -6620,7 +6620,7 @@
     "nome": "Mitchell Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/2d/Mitchell_Bubblebrook_%285376%29.jpg/revision/latest?cb=20200225104622"
   },
   {
@@ -6628,7 +6628,7 @@
     "nome": "Rianne Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f4/Rianne_Bubblebrook_%285376%29.jpg/revision/latest/scale-to-width-down/268?cb=20200225104623"
   },
   {
@@ -6636,7 +6636,7 @@
     "nome": "Miriam Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a1/Miriam_Bubblebrook_%285380%29.jpg/revision/latest/scale-to-width-down/268?cb=20200513071730"
   },
   {
@@ -6644,7 +6644,7 @@
     "nome": "Hilton Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/be/Hilton_Bubblebrook_%285376%29.jpg/revision/latest/scale-to-width-down/268?cb=20200225104624"
   },
   {
@@ -6652,7 +6652,7 @@
     "nome": "Ritz Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f1/Elephant_Twins_5774.jpg/revision/latest/scale-to-width-down/268?cb=20241114075507"
   },
   {
@@ -6660,7 +6660,7 @@
     "nome": "Ibis Bubblebrook",
     "familia": "Elephant Family",
     "tipo": "Elefante",
-    "ano": null,
+    "ano": "2018",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f1/Elephant_Twins_5774.jpg/revision/latest/scale-to-width-down/268?cb=20241114075507"
   },
   {
@@ -6812,7 +6812,7 @@
     "nome": "Richie Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2019",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/07/Richie_Hopper_%285272%29.jpg/revision/latest/scale-to-width-down/267?cb=20190813091050"
   },
   {
@@ -6820,7 +6820,7 @@
     "nome": "Sandy Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2019",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Sandy_%26_Katie_Hopper_%285272%29.jpg/revision/latest/scale-to-width-down/268?cb=20190813091051"
   },
   {
@@ -6828,7 +6828,7 @@
     "nome": "Katie Hopper",
     "familia": "Kangaroo Family",
     "tipo": "Canguru",
-    "ano": null,
+    "ano": "2019",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/1d/Katie_Hopper_%285309%29.jpg/revision/latest?cb=20221124113235"
   },
   {
@@ -7004,7 +7004,7 @@
     "nome": "Charlton Seabreeze",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2020",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6b/Charlton_Seabreeze_%285508%29.jpg/revision/latest/scale-to-width-down/268?cb=20210414094737"
   },
   {
@@ -7012,7 +7012,7 @@
     "nome": "Libby Seabreeze",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2020",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/ea/Libby_Seabreeze_%285508%29.jpg/revision/latest/scale-to-width-down/268?cb=20210414094740"
   },
   {
@@ -7020,7 +7020,7 @@
     "nome": "Huey Seabreeze",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2020",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f6/Huey_Seabreeze_%285508%29.jpg/revision/latest/scale-to-width-down/268?cb=20210414094739"
   },
   {
@@ -7028,7 +7028,7 @@
     "nome": "Porsha Seabreeze",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2020",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/71/Porsha_Seabreeze_%285508%29.jpg/revision/latest/scale-to-width-down/268?cb=20210414094742"
   },
   {
@@ -7036,7 +7036,7 @@
     "nome": "Avery Seabreeze",
     "familia": "Sea Breeze Rabbit Family",
     "tipo": "Coelho",
-    "ano": null,
+    "ano": "2020",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a0/Avery_Seabreeze_%28JP%29.jpg/revision/latest/scale-to-width-down/268?cb=20250623101812"
   },
   {
@@ -7380,7 +7380,7 @@
     "nome": "Billy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/ab/Billy_Brightfield_%285185%29.jpg/revision/latest/scale-to-width-down/268?cb=20190522092521"
   },
   {
@@ -7388,7 +7388,7 @@
     "nome": "Nancy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9e/Nancy_Brightfield_%285185%29.jpg/revision/latest/scale-to-width-down/268?cb=20191212105346"
   },
   {
@@ -7396,7 +7396,7 @@
     "nome": "Mandy Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4a/Mandy_Brightfield_%285185%29.jpg/revision/latest?cb=20220318124900"
   },
   {
@@ -7404,7 +7404,7 @@
     "nome": "Jenny Brightfield",
     "familia": "Goat Family",
     "tipo": "Cabra",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/52/Jenny_Brightfield_%285185%29.jpg/revision/latest?cb=20211207104039"
   },
   {
@@ -7412,7 +7412,7 @@
     "nome": "Amy Darling",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9c/Amy%2C_Brett_%26_Cory_Darling_%285601%29.jpg/revision/latest/scale-to-width-down/268?cb=20230505080646"
   },
   {
@@ -7420,7 +7420,7 @@
     "nome": "Brett Darling",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9c/Amy%2C_Brett_%26_Cory_Darling_%285601%29.jpg/revision/latest/scale-to-width-down/268?cb=20230505080646"
   },
   {
@@ -7428,7 +7428,7 @@
     "nome": "Cory Darling",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/9c/Amy%2C_Brett_%26_Cory_Darling_%285601%29.jpg/revision/latest/scale-to-width-down/268?cb=20230505080646"
   },
   {
@@ -7436,7 +7436,7 @@
     "nome": "George Puddleton",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/b/be/George_Puddleton_%282963%29.jpg/revision/latest/scale-to-width-down/268?cb=20230505091440"
   },
   {
@@ -7444,7 +7444,7 @@
     "nome": "Eliza Puddleton",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/96/Eliza_Puddleton_%282963%29.jpg/revision/latest/scale-to-width-down/268?cb=20230505103133"
   },
   {
@@ -7452,7 +7452,7 @@
     "nome": "Joseph Puddleton",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c5/Joseph%2C_Beatrise%2C_Harriet_Puddleton_%282112%29.jpg/revision/latest/scale-to-width-down/268?cb=20230510065813"
   },
   {
@@ -7460,7 +7460,7 @@
     "nome": "Harriet Puddleton",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c5/Joseph%2C_Beatrise%2C_Harriet_Puddleton_%282112%29.jpg/revision/latest/scale-to-width-down/268?cb=20230510065813"
   },
   {
@@ -7468,7 +7468,7 @@
     "nome": "Beatrise Puddleton",
     "familia": "Duck Family",
     "tipo": "Pato",
-    "ano": null,
+    "ano": "2021",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c5/Joseph%2C_Beatrise%2C_Harriet_Puddleton_%282112%29.jpg/revision/latest/scale-to-width-down/268?cb=20230510065813"
   },
   {
@@ -8372,7 +8372,7 @@
     "nome": "Marius Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/2/25/Marius_Willow_%285799%29.jpg/revision/latest/scale-to-width-down/268?cb=20240201063356"
   },
   {
@@ -8380,7 +8380,7 @@
     "nome": "Primrose Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/87/Primrose_Willow_%285799%29.jpg/revision/latest/scale-to-width-down/268?cb=20240607170936"
   },
   {
@@ -8388,7 +8388,7 @@
     "nome": "Sophia Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/45/Sophia_Willow_%285799%29.jpg/revision/latest/scale-to-width-down/268?cb=20250124062636"
   },
   {
@@ -8396,7 +8396,7 @@
     "nome": "Aster Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4c/Aster_Willow_%285801%29.jpg/revision/latest?cb=20241223084815"
   },
   {
@@ -8404,7 +8404,7 @@
     "nome": "Lucia Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/99/Lucia_Willow_%28Japan%29.jpg/revision/latest/scale-to-width-down/268?cb=20241224062951"
   },
   {
@@ -8412,7 +8412,7 @@
     "nome": "Nils Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/1/15/Nils_Willow_%285800%29.jpg/revision/latest/scale-to-width-down/268?cb=20241223085523"
   },
   {
@@ -8420,7 +8420,7 @@
     "nome": "Lida Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dd/Lida_Willow_%285800%29.jpg/revision/latest/scale-to-width-down/268?cb=20241223085522"
   },
   {
@@ -8428,7 +8428,7 @@
     "nome": "Kai Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/64/Kai_Willow_%285799%29.jpg/revision/latest?cb=20240201063556"
   },
   {
@@ -8436,7 +8436,7 @@
     "nome": "Nova Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/7e/Nova_Willow_%285801%29.jpg/revision/latest?cb=20241223084816"
   },
   {
@@ -8444,7 +8444,7 @@
     "nome": "Rosé Willow",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/d/dc/Rose_Willow_%285801%29.jpg/revision/latest?cb=20241223084816"
   },
   {
@@ -8452,7 +8452,7 @@
     "nome": "Colin Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/a/a7/Colin_Cove_%285803%29.jpg/revision/latest/scale-to-width-down/268?cb=20241224065151"
   },
   {
@@ -8460,7 +8460,7 @@
     "nome": "Myra Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/0e/Myra_Cove_%285803%29.jpg/revision/latest/scale-to-width-down/268?cb=20241224065154"
   },
   {
@@ -8468,7 +8468,7 @@
     "nome": "Marina Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6a/Marina_Cove_%285804%29.jpg/revision/latest/scale-to-width-down/267?cb=20250117070230"
   },
   {
@@ -8476,7 +8476,7 @@
     "nome": "Manon Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4f/Manon_Cove_%285804%29.jpg/revision/latest/scale-to-width-down/268?cb=20250117070228"
   },
   {
@@ -8484,7 +8484,7 @@
     "nome": "Kayley Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f6/Kayley_Cove_%285803%29.jpg/revision/latest/scale-to-width-down/268?cb=20241224065153"
   },
   {
@@ -8492,7 +8492,7 @@
     "nome": "Courtney Cove",
     "familia": "Sea Otter Family",
     "tipo": "Lontra",
-    "ano": null,
+    "ano": "2023",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/6b/Courtney_Cove_%285803%29.jpg/revision/latest/scale-to-width-down/267?cb=20241224065152"
   },
   {
@@ -8588,7 +8588,7 @@
     "nome": "Maurice Chantilly",
     "familia": "Chantilly Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/5/56/Maurice_Chantilly_%284869%29.jpg/revision/latest?cb=20191031073847"
   },
   {
@@ -8596,7 +8596,7 @@
     "nome": "Myriam Chantilly",
     "familia": "Chantilly Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -8604,7 +8604,7 @@
     "nome": "Christian Chantilly",
     "familia": "Chantilly Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/c/c0/Christian%27s_Bedtime_Set.jpg/revision/latest/scale-to-width-down/268?cb=20210112071128"
   },
   {
@@ -8612,7 +8612,7 @@
     "nome": "Jacques Chantilly",
     "familia": "Chantilly Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "2002",
     "imagem": null
   },
   {
@@ -8748,7 +8748,7 @@
     "nome": "Nicholas McFarlane",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/47/Nicholas_McFarlane_%285125%29.jpg/revision/latest/scale-to-width-down/268?cb=20191030113900"
   },
   {
@@ -8756,7 +8756,7 @@
     "nome": "Elizabeth McFarlane",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/7/73/Elizabeth_McFarlane_%285125%29.jpg/revision/latest/scale-to-width-down/267?cb=20191030113859"
   },
   {
@@ -8764,7 +8764,7 @@
     "nome": "Laurette McFarlane",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/96/Laurette_McFarlane_%285125%29.jpg/revision/latest/scale-to-width-down/268?cb=20191030114750"
   },
   {
@@ -8772,7 +8772,7 @@
     "nome": "Albie McFarlane",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/e/eb/Bear_Baby_with_Swing.jpg/revision/latest/scale-to-width-down/268?cb=20200518080257"
   },
   {
@@ -8780,7 +8780,7 @@
     "nome": "Ian Devon",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/6/62/Ian_Devon_%285126%29.jpg/revision/latest/scale-to-width-down/268?cb=20200212073351"
   },
   {
@@ -8788,7 +8788,7 @@
     "nome": "Camilla Devon",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/97/Camilla_Devon_%285126%29.jpg/revision/latest/scale-to-width-down/267?cb=20200212073351"
   },
   {
@@ -8796,7 +8796,7 @@
     "nome": "Matilda Devon",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/3/3b/Matilda_Devon_%285126%29.jpg/revision/latest/scale-to-width-down/268?cb=20200212073352"
   },
   {
@@ -8804,7 +8804,7 @@
     "nome": "Samuel Devon",
     "familia": "Cat Family",
     "tipo": "Gato",
-    "ano": null,
+    "ano": "1985",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/fb/Cat_Baby_with_See-Saw.jpg/revision/latest/scale-to-width-down/268?cb=20200513092254"
   },
   {
@@ -8932,7 +8932,7 @@
     "nome": "Hans Von Elkin",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2009",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/9/94/Hans_Von_Elkin_%285133%29.jpg/revision/latest/scale-to-width-down/268?cb=20200808095532"
   },
   {
@@ -8940,7 +8940,7 @@
     "nome": "Helga Von Elkin",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2009",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/f/f2/Helga_Von_Elkin_%285133%29.jpg/revision/latest/scale-to-width-down/268?cb=20200808095532"
   },
   {
@@ -8948,7 +8948,7 @@
     "nome": "Imelda Von Elkin",
     "familia": "Deer Family",
     "tipo": "Cervo",
-    "ano": null,
+    "ano": "2009",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/0/09/Imelda_Von_Elkin_%285133%29.jpg/revision/latest/scale-to-width-down/268?cb=20200808095533"
   },
   {
@@ -8964,7 +8964,7 @@
     "nome": "Kelvin Waters",
     "familia": "Beaver Family",
     "tipo": "Castor",
-    "ano": null,
+    "ano": "2007",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/4/4d/Kelvin_Waters_%284716%29.jpg/revision/latest?cb=20240118095603"
   },
   {
@@ -8996,7 +8996,7 @@
     "nome": "Owen Bearbury",
     "familia": "Bear Family",
     "tipo": "Urso",
-    "ano": null,
+    "ano": "2002",
     "imagem": "https://static.wikia.nocookie.net/sylvanian/images/8/82/Owen_Bearbury_%284412%29.jpg/revision/latest?cb=20210224094924"
   },
   {
