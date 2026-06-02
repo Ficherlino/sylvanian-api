@@ -7,6 +7,20 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const FETCH_HEADERS = {
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+};
+
+async function fetchAPI(pageName) {
+  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(pageName)}&prop=text&format=json`;
+  const res = await fetch(url, { headers: FETCH_HEADERS });
+  const data = await res.json();
+  if (!data || !data.parse || !data.parse.text) {
+      throw new Error("No data parse from API for page: " + pageName);
+  }
+  return data.parse.text["*"];
+}
+
 function getAnimalFromFamily(familia) {
   if (!familia) return null;
   const words = familia.split(" ");
@@ -14,9 +28,7 @@ function getAnimalFromFamily(familia) {
 }
 
 async function getFamilies() {
-  const url = "https://sylvanianfamilies.fandom.com/wiki/Families";
-  const res = await fetch(url);
-  const html = await res.text();
+  const html = await fetchAPI("Families");
   const $ = cheerio.load(html);
 
   const families = [];
@@ -24,16 +36,15 @@ async function getFamilies() {
     const href = $(el).attr("href");
     const title = $(el).attr("title");
     if (href && title && !href.includes("#")) {
-      families.push({ title, href: "https://sylvanianfamilies.fandom.com" + href });
+      families.push({ title, pageName: title });
     }
   });
 
   return families;
 }
 
-async function getCharactersFromFamily(familyUrl) {
-  const res = await fetch(familyUrl);
-  const html = await res.text();
+async function getCharactersFromFamily(pageName) {
+  const html = await fetchAPI(pageName);
   const $ = cheerio.load(html);
 
   const characters = [];
@@ -59,11 +70,8 @@ async function getCharactersFromFamily(familyUrl) {
 async function getReleaseYearFromFamily(familyName) {
   if (!familyName) return null;
 
-  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(familyName)}&prop=text&format=json`;
   try {
-    const res = await fetch(url);
-    const data = await res.json();
-    const html = data.parse.text["*"];
+    const html = await fetchAPI(familyName);
     const $ = cheerio.load(html);
 
     const year = $('div[data-source="year"] .pi-data-value').text().trim();
@@ -81,12 +89,15 @@ function extractYear(anoString) {
 }
 
 async function getCharacterData(name, id) {
-  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(
-    name
-  )}&prop=text|images&format=json`;
+  const url = `https://sylvanianfamilies.fandom.com/api.php?action=parse&page=${encodeURIComponent(name)}&prop=text|images&format=json`;
 
-  const res = await fetch(url);
+  const res = await fetch(url, { headers: FETCH_HEADERS });
   const data = await res.json();
+  
+  if (!data || !data.parse || !data.parse.text) {
+      throw new Error("No data parse from API for page: " + name);
+  }
+  
   const html = data.parse.text["*"];
   const $ = cheerio.load(html);
 
@@ -122,28 +133,42 @@ async function getCharacterData(name, id) {
 
 (async () => {
   console.log("Buscando famílias...");
-  const families = await getFamilies();
-  console.log(`Encontradas ${families.length} famílias.`);
+  let families = [];
+  try {
+      families = await getFamilies();
+      console.log(`Encontradas ${families.length} famílias.`);
+  } catch (e) {
+      console.log("Erro buscando famílias: " + e);
+      return;
+  }
 
   const catalogo = [];
-  let id = 1;
 
   for (const family of families) {
     console.log(`Buscando personagens da família: ${family.title}`);
-    const characters = await getCharactersFromFamily(family.href);
-
-    for (const name of characters) {
-      console.log(`Buscando dados de: ${name}`);
-      try {
-        const charData = await getCharacterData(name, id++);
-        if (charData.tipo) {
-          catalogo.push(charData);
+    try {
+        const characters = await getCharactersFromFamily(family.pageName);
+        
+        for (let i = 0; i < characters.length; i += 10) {
+            const chunk = characters.slice(i, i + 10);
+            await Promise.all(chunk.map(async (name) => {
+                console.log(`Buscando dados de: ${name}`);
+                try {
+                    const charData = await getCharacterData(name, 0);
+                    if (charData.tipo) {
+                        catalogo.push(charData);
+                    }
+                } catch (err) {
+                    console.log(`Erro ao buscar ${name}: ${err}`);
+                }
+            }));
         }
-      } catch (err) {
-        console.log(`Erro ao buscar ${name}: ${err}`);
-      }
+    } catch (err) {
+        console.log(`Erro ao buscar família ${family.title}: ${err}`);
     }
   }
+
+  catalogo.forEach((c, idx) => c.id = idx + 1);
 
   const arquivoJson = path.join(__dirname, "..", "bichinhos.json");
   fs.writeFileSync(arquivoJson, JSON.stringify(catalogo, null, 2));
